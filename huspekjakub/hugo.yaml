@@ -1,4 +1,5 @@
-baseURL: http://huspekjakub.cz/
+#baseURL: http://huspekjakub.cz/
+baseURL: https://jhuspek.github.io
 defaultContentLanguage: en
 languageCode: en
 title: Jakub Huspek
