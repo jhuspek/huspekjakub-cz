@@ -18,7 +18,7 @@ menu:
       weight: 2
       pre: <span data-feather='tag'></span>
     - identifier: github
-      url: https://twitter.com/jhuspek
+      url: https://github.com/jhuspek
       weight: 3
       pre: <span data-feather='github'></span>
 params:
@@ -29,7 +29,7 @@ params:
   socialIcons:
     - name: linkedin
       url: https://www.linkedin.com/in/jakub-huspek/
-    - name: twitter
+    - name: x
       url: https://twitter.com/jhuspek
     - name: buymeacoffee
       url: https://www.buymeacoffee.com/jhuspek
