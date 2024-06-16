@@ -3,7 +3,7 @@ title: "Talks: OpenAlt 2023 - Unleash your feature flags!"
 date: 2023-11-12
 description: "The 18th annual conference on open software and data, IT security, DIY and IoT."
 type: "post"
-tags: [ "conference", "talk", "unleash", "openalt", "featurflags", "featuetoggles" ]
+tags: [ "conference", "talk", "unleash", "openalt", "featureflags", "featuretoggles" ]
 ---
 
 I had the awesome opportunity to present at the OpenAlt 2023 conference.
