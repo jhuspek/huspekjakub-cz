@@ -15,10 +15,10 @@ Unleash your feature flags
 
 ### Abstract
 
-Did you realize that microservices aren't a prerequisite for implementing feature toggles? Surprisingly,
-using feature toggles isn't all sunshine and roses. They come with their own set of pitfalls. But fear not! We'll
-navigate through these intricacies and introduce you to the invaluable tool Unleash (an open-source feature flag
-management tool), which will shown during the session.
+Did you know that microservices aren’t a prerequisite for implementing feature toggles? Surprisingly, feature toggles
+aren’t all sunshine and roses — they come with their own set of pitfalls. But fear not! We’ll walk through these
+challenges and introduce you to the invaluable tool Unleash, an open-source feature flag management platform, which will
+be demonstrated during the session.
 
 ### Resources
 

@@ -13,13 +13,13 @@ on [Printables](https://www.printables.com/model/574328-timemore-black-mirror-ba
 
 ## Description
 
-The simplest travel case that can be created. 😎
+The simplest travel case you can make. 😎
 
-Both parts of the travel case hold 16 small 3 x 3 mm magnets that I bought on Aliexpress. The connection itself is
-strong enough to avoid disconnection during travel.
+Both parts of the travel case contain 16 small 3 × 3 mm magnets that I bought on AliExpress. The magnetic connection is
+strong enough to prevent the case from coming apart during travel.
 
-The model has been printed on Prusa MK3 from PLA.
+The model was printed on a Prusa MK3 using PLA.
 
-Magnets: https://www.aliexpress.com/item/1005003340480770.html
+Magnets: https://www.aliexpress.com/w/wholesale-3x3-mm-magnet.html?spm=a2g0o.detail.search.0
 
 ![timemore-travel-case](../../images/timemore-travel-case.jpg)

@@ -22,7 +22,7 @@ menu:
       weight: 3
       pre: <span data-feather='github'></span>
 params:
-  avatarURL: images/avatar.jpg
+  avatarURL: /images/avatar.jpg
   accentColor: "#4B5FCE"
   footer: huspekjakub.cz
   description: Passionate about 💻 ✈️ 🎒 🛠️ ⚙️
@@ -40,6 +40,5 @@ params:
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-RJYQ6V0NTG');
     </script>
