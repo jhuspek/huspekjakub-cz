@@ -1,2 +1,3 @@
-/huspekjakub/public/*
 /.idea/*
+/huspekjakub/public
+/huspekjakub/.hugo_build.lock

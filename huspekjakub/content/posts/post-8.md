@@ -8,7 +8,8 @@ tags: [ "conference", "talk", "unleash", "kubernetes", "featureflags", "featuret
 
 I am glad that I had the chance to present
 at [KCD Czech Slovak 2024](https://community.cncf.io/events/details/cncf-kcd-czech-slovak-presents-kcd-czech-slovak-2024/).
-As usual, I exceeded the time limit, forgot to mention several important points, and at times, my delivery was a bit confusing.
+As usual, I exceeded the time limit, forgot to mention several important points, and at times, my delivery was a bit
+confusing.
 
 Nevertheless, it's always a valuable experience to speak in front of a group of strangers and try not to disappoint
 them, even though it can be really stressful.

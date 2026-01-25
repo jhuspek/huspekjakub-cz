@@ -19,8 +19,8 @@ tags: [ "conference", "event", "opensource", "cloudnativeprague", "continuousint
 
 ## Description
 
-I co-organized a meetup at T-Mobile's Magenta Experience center, which is a modern shop with a range of programs. The
-event was hosted by **CNCF** and the **Cloud Native Prague** community group. It was held both in-person and virtually.
+I co-organized a meetup at T-Mobile’s Magenta Experience Center, a modern venue that hosts a wide range of programs. The
+event was organized by CNCF and the Cloud Native Prague community group and was held both in person and virtually.
 
 The program consisted of two separate talks, which you can watch on YouTube, followed by a networking session.
 Refreshments were provided throughout the event.

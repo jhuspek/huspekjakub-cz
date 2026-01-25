@@ -17,10 +17,9 @@ simplify their work. Our goal is to assist every developer in delivering high-qu
 
 ## Why did I join?
 
-I have several reasons for being interested in this. First of all, we use the product ourselves, and I believe
-it is currently one of the most advanced options available. Secondly, I have been involved in various hardware
-communities for a long time and now I am looking to gain experience from open communities focused on software. I am
-particularly interested in open source software and its overall background, as I have not had any experience with it
-beyond being a user.
+I have several reasons for being interested in this. First, we use the product ourselves, and I believe it is currently
+one of the most advanced options available. Second, I have been involved in various hardware communities for a long
+time, and I am now looking to gain experience with open communities focused on software. I am particularly interested in
+open-source software and its broader ecosystem, as my experience so far has been limited to being an end user.
 
 ![unleashambassador-01.png](../../images/unleashambassador-01.png)

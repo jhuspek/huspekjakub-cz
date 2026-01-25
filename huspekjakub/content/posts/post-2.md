@@ -15,11 +15,12 @@ tags: [ "conference", "event", "opensource", "linuxdays" ]
 
 ## Description
 
-On October 7-8, 2023, our hackerspace participated in the LinuxDays 2023 event. We had a booth where we showcased our
+On October 7 – 8, 2023, our hackerspace participated in the LinuxDays 2023 event. We had a booth where we showcased our
 projects and interacted with visitors.
 
-One of our members, Adam, presented (and made as well) a development board featuring the CH32V003 microcontroller, which also served as a
-visitor badge. Attendees could either purchase it as a kit or assemble it with our assistance.
+One of our members, Adam, presented (and made as well) a development board based on the CH32V003 microcontroller, which
+also served as a visitor badge. He designed and built the board himself. Attendees could either purchase it as a kit or
+assemble it on-site with our assistance.
 
 ![linuxdays2023-05.jpg](../../images/linuxdays2023-05.jpg)
 ---

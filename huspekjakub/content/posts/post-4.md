@@ -16,10 +16,10 @@ This past weekend, we attended the OpenAlt conference in Brno. Me and a few othe
 from [@bastlirna](https://macgyver.siliconhill.cz) were well-represented, with each of us giving a talk on different
 topics.
 
-In addition to our talks, we organized an unofficial event called "**Show Us Your PCB Prototype**". The purpose of this
-was to showcase our electronic creations, both at the prototype stage and as official products that had previously
-been prototypes. We were looking to highlight our (and also participant's) worst electronic creations that still
-managed to serve their purpose.
+In addition to our talks, we organized an unofficial event called “**Show Us Your PCB Prototype**.” The goal was to
+showcase our electronic creations, ranging from early-stage prototypes to finished products that originally started as
+prototypes. We specifically wanted to highlight our own—and participants’—worst electronic creations that still somehow
+managed to do their job.
 
 
 ![openalt2023-01.jpg](../../images/openalt2023-01.jpg)
